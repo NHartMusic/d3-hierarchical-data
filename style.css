@@ -1,0 +1,20 @@
+body {
+    background: #B5B3D0;
+}
+
+text {
+    font-family: Helvetica;
+    font-size: Arial;
+}
+
+h2, .flow-text{
+    margin: 0 0 10px;
+}
+
+.modal {
+    max-width: 500px;
+}
+
+.canvas {
+    margin-top: 40px;
+}
